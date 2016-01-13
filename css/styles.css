@@ -1,0 +1,7 @@
+img {
+  width: 30%;
+}
+
+#turtle, #snake, #insect {
+  display: none;
+}
